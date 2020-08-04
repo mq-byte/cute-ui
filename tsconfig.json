@@ -1,3 +1,4 @@
 {
-    "isolatedModules": true
+    "isolatedModules": true,
+    "module": "esnext",
 }

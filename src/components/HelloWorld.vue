@@ -13,7 +13,6 @@ export default {
     msg: String,
   },
   data() {
-    console.log(111);
     return {
       count: 0,
     };
